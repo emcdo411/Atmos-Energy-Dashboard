@@ -277,7 +277,7 @@ Follow these steps to deploy the app to shinyapps.io:
      ```R
      rsconnect::deployApp()
      ```
-   - Monitor the deployment log for success (e.g., "Application successfully deployed to https://your-username.shinyapps.io/app-name/").
+   - Monitor the deployment log for success (e.g., "Application successfully deployed to https://mmcdonald411.shinyapps.io/AtmosEnergyDashboard/
 
 5. **Verify**:
    - Visit the provided URL to interact with the deployed app.
